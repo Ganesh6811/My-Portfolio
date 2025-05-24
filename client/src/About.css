@@ -1,0 +1,200 @@
+@media (min-width: 768px) {
+  .about-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 15vh;
+  }
+
+  .about1st-sub {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+  }
+
+  .about2nd-sub {
+    width: 50vw;
+    padding-right: 5vw;
+  }
+
+  .capabilities1st-sub{
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+  }
+
+  .capabilities2nd-sub{
+    width: 50vw; 
+    padding-right:5vw;
+  }
+
+  .experience1st-sub{
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+  }
+
+  .experience-right{
+    width: 50vw;
+    padding-right:5vw;
+  }
+
+  .about-heading {
+    font-size: 101px;
+  }
+
+  .about1st-intro {
+    font-size: 32px;
+  }
+
+  .about2st-intro {
+    font-size: 18px;
+  }
+
+  .center-image {
+    width: 1224px;
+    height: 700px;
+  }
+
+  .capabilities-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .capabilities-name {
+    font-size: 76px;
+  }
+
+  .capabilities-para {
+    font-size: 18px;
+  }
+
+  .experience-container {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .experience-right {
+    width: 50vw;
+  }
+
+
+  .experience-name {
+    font-size: 72px;
+  }
+
+
+  .experience-web {
+    font-size: 32px;
+  }
+
+  .let-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .let-name{
+    font-size: 76px;
+  }
+}
+
+
+
+
+@media (max-width: 768px) {
+  .about-container {
+    display: flex; 
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-top: 5vh;
+  }
+
+  .about1st-sub {
+    margin-left: 5vw;
+    margin-right: 5vw;
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .about2nd-sub {
+    margin-left: 5vw;
+    margin-right: 5vw;
+  }
+
+
+  .capabilities1st-sub{
+     margin-left: 5vw;
+    margin-right: 5vw;
+  }
+
+  .capabilities2nd-sub{
+     margin-left: 5vw;
+    margin-right: 5vw;
+  }
+
+    .experience1st-sub{
+    margin-left: 5vw;
+    margin-right: 5vw; 
+  }
+
+  .experience-right{
+    margin-left: 5vw;
+    margin-right: 5vw; 
+  }
+
+  .about-heading {
+    font-size: 58px;
+  }
+
+  .about1st-intro {
+    font-size: 24px;
+  }
+
+  .about2st-intro {
+    font-size: 16px;
+  }
+
+  .center-image {
+    width: 343px;
+    height: 343px;
+  }
+
+  .capabilities-container {
+    display: flex;
+    flex-direction: column; 
+  }
+
+  .capabilities-name {
+    font-size: 42px;
+  }
+
+  .capabilities-para {
+    font-size: 16px;
+  }
+  
+
+  .experience-container {
+    height: auto;
+    display: flex;
+    flex-direction: column; 
+  }
+
+  .experience-name {
+    font-size: 42px;
+  }
+
+  .experience-web {
+    font-size: 24px;
+  }
+
+
+  .let-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .let-name{
+    font-size: 52px;
+  }
+
+}
