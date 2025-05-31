@@ -10,6 +10,14 @@ import "./Home.css";
 const Home = () => {
     const projectsData = [
         {
+            imageUrl: "/Project_Images/RealEsate.png",
+            title: "Real Estate Website",
+            description: "Developed a Real Estate Web Application using React for the frontend, Express.js for the backend, and MongoDB for data storage. Implemented property listings with detailed views, search and filter functionality, and a contact form to collect user inquiries. Designed the interface using Bootstrap for a clean and structured layout.",
+            year: 2025,
+            role: "Full Stack Developer",
+            projectUrl:"https://real-estate-website-frontend-9sr3.onrender.com",
+        },
+        {
             imageUrl: "/Project_Images/create.png",
             title: "Create Your Own Blog",
             description: "This website is a dynamic, full-stack blogging platform built with the MERN stack. The application features secure authentication using JWT, integrated image uploads through Cloudinary, and a responsive design for seamless use across devices. Real-time post rendering and rich text editing enhance the user experience, making it an ideal platform for publishing personal blogs.\nTools Used: MongoDB, Express.js, React.js, Node.js, Cloudinary",
@@ -124,14 +132,16 @@ const Home = () => {
                 <div className='d-flex flex-column gap-5 flex-wrap'>
                     <div className='indi-container d-flex flex-wrap gap-5 mb-5'>
                         <div className='indi-image-container d-flex justify-content-center align-items-center rounded-4' style={{  backgroundColor: "#1A1A1A" }}>
-                            <img className='indi-image rounded-4' src='/Project_Images/RealEsate.png' style={{  }} alt='loading.......' />
+                            <img className='indi-image rounded-4' src='/Project_Images/interviewPrep.png' style={{  }} alt='loading.......' />
                         </div>
                         <div className='d-flex flex-column justify-content-center' style={{ fontFamily: "'Manrope', sans-serif", }}>
                             <div className='indi-details-container d-flex flex-column gap-3' style={{ }}>
-                                <h1 className='text-white' style={{}}>Real estate website</h1>
-                                <p style={{ color: "#C7C7C7", fontSize: "18px" }}> Developed a Real Estate Web Application using React for the frontend, Express.js for the backend, and MongoDB
-                                    for data storage. Implemented property listings with detailed views, search and filter functionality, and a contact
-                                    form to collect user inquiries. Designed the interface using Bootstrap for a clean and structured layout.</p>
+                                <h1 className='text-white' style={{}}>AI Interview Preparation</h1>
+                                <p style={{ color: "#C7C7C7", fontSize: "18px" }}> Developed an AI Interview Preparation Website with a React frontend, Express.js backend, and MongoDB
+ database. Implemented features including interview creation with role/type selection, voice-based AI question
+ answering powered by Gemini and Vapi APIs, interview storage and management, and post-interview
+ AI-generated analysis. Designed intuitive UI/UX for seamless user interaction and real-time voice
+ communication.</p>
                             </div>
                             <div className='d-flex flex-column justify-content-center'>
                                 <h3 className='text-white' style={{ fontSize: "18px" }}>PROJECT INFO</h3>
@@ -147,7 +157,7 @@ const Home = () => {
                                 </div>
                                 <hr className='d-flex mt-3' style={{ color: "#C7C7C7", }} />
 
-                                <a href='https://real-estate-website-frontend-9sr3.onrender.com' className='mt-5' style={{ color: "#D3E97A", textDecoration: "underline", textUnderlineOffset: "10px" }}>VIEW PROJECT <span style={{ fontSize: "25px", color: "#D3E97A", marginLeft: "6px" }}>↗</span></a>
+                                <a href='https://ai-interview-preparation-website.onrender.com' className='mt-5' style={{ color: "#D3E97A", textDecoration: "underline", textUnderlineOffset: "10px" }}>VIEW PROJECT <span style={{ fontSize: "25px", color: "#D3E97A", marginLeft: "6px" }}>↗</span></a>
                             </div>
                         </div>
                     </div>
