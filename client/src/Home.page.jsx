@@ -297,7 +297,7 @@ const Home = () => {
                 <div>
                     <h2 className='let-name text-white' style={{  }}>LET'S CONNECT</h2>
                     <p style={{ fontSize: "16px", color: "#C7C7C7" }}>Say hello at <span><a href="mailto:ganeshsudhanagunta68@gmail.com" style={{ textDecoration: "underline", color: "inherit", textUnderlineOffset: "10px", textDecorationColor: "#D3E97A" }}>ganeshsudhanagunta68@gmail.com</a></span></p>
-                    <p style={{ fontSize: "16px", color: "#C7C7C7" }}>For more info, here's my <span><a href='https://drive.google.com/file/d/1vi0omq20T5NPTnJYiJcKMAWw66LjvbML/view?usp=sharing' style={{ textDecoration: "underline", color: 'inherit', textUnderlineOffset: "10px", textDecorationColor: "#D3E97A" }}>resume</a></span></p>
+                    <p style={{ fontSize: "16px", color: "#C7C7C7" }}>For more info, here's my <span><a href='https://drive.google.com/file/d/1tuIiYBxF9cb9rgDJlO4YPW2G-8oWwbq3/view?usp=sharing' style={{ textDecoration: "underline", color: 'inherit', textUnderlineOffset: "10px", textDecorationColor: "#D3E97A" }}>resume</a></span></p>
                 </div>
 
                 {/* Right side data of contact me */}
