@@ -31,7 +31,7 @@ const AboutPage = () => {
                         <p className="about2nd-intro" style={{  color: "#C7C7C7", fontFamily: "'Manrope', sans-serif", }}>Hi, I'm a full-stack developer specializing in building dynamic and scalable web applications from front to back. With a strong focus on clean, maintainable code and seamless user experiences, I develop responsive interfaces and robust backend systems that perform across all devices and platforms.</p>
                     </div>
                     <div className='d-flex flex-wrap gap-4 mt-5'>
-                        <button className='btn  rounded-pill px-4 py-2 fw-semibold' style={{ backgroundColor: "#D3E97A" }}><a href="https://drive.google.com/file/d/1vi0omq20T5NPTnJYiJcKMAWw66LjvbML/view?usp=sharing" style={{ color: "inherit", textDecoration: "none" }}>DOWNLOAD RESUME</a></button>
+                        <button className='btn  rounded-pill px-4 py-2 fw-semibold' style={{ backgroundColor: "#D3E97A" }}><a href="https://drive.google.com/file/d/1tuIiYBxF9cb9rgDJlO4YPW2G-8oWwbq3/view?usp=sharing" style={{ color: "inherit", textDecoration: "none" }}>DOWNLOAD RESUME</a></button>
                         <div className='d-flex gap-4'>
                             <a href='https://www.linkedin.com/in/ganesh-s-95b848273/'><FaLinkedinIn style={{ width: "34px", height: "44px", color: "#D3E97A" }} /></a>
                             <a href='https://github.com/Ganesh6811'><FaSquareGithub style={{ width: "34px", height: "44px", color: "#D3E97A" }} /></a>
@@ -94,7 +94,7 @@ const AboutPage = () => {
                     <div>
                         <div className="d-flex justify-content-between align-items-center">
                             <p className='experience-web text-white' style={{ fontSize: "32px", fontFamily: "'Manrope', sans-serif" }}>Web Developer</p>
-                            <p className=" experience-data mt-3" style={{ fontSize: "18px", color: "#C7C7C7", fontFamily: "'Manrope', sans-serif" }}>Feb 2023 - Present</p>
+                            <p className=" experience-data mt-3" style={{ fontSize: "18px", color: "#C7C7C7", fontFamily: "'Manrope', sans-serif" }}>Mar 2023 - Present</p>
                         </div>
                         <p className="experience-data" style={{ fontSize: "18px", color: "#C7C7C7", fontFamily: "'Manrope', sans-serif", height:"auto" }}>As a passionate Full-Stack Web Developer, I have independently designed, developed, and deployed multiple real-world projects using modern technologies such as React.js, Node.js, Express, MongoDB, and PostgreSQL. I specialize in building responsive and user-friendly interfaces combined with robust backend APIs, ensuring seamless performance and security through JWT-based authentication and efficient database management. My hands-on experience includes integrating third-party APIs,
                             optimizing application performance, and following best practices in version control using Git. With a strong commitment to continuous learning and adaptability, I have successfully delivered end-to-end solutions across various domains, demonstrating my ability to manage the full software development lifecycle while collaborating effectively in team environments.</p>
