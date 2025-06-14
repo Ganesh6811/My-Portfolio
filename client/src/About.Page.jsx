@@ -42,10 +42,10 @@ const AboutPage = () => {
 
 
             {/* Large Image */}
-            <div className="d-flex justify-content-center align-items-center mt-5 pt-3  pb-5">
+{/*             <div className="d-flex justify-content-center align-items-center mt-5 pt-3  pb-5">
                 <img className="center-image rounded-5" src="/myPic2.png"  />
             </div>
-
+ */}
 
             {/* My capabilities */}
             <div className='capabilities-container d-flex justify-content-center pb-5 mt-5' style={{}}>
