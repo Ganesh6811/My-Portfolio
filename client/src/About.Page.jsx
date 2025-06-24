@@ -63,6 +63,7 @@ const AboutPage = () => {
                             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" class="px-4 py-2 rounded-pill border border-light text-light fw-semibold text-decoration-none">HTML</a>
                             <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" class="px-4 py-2 rounded-pill border border-light text-light fw-semibold text-decoration-none">CSS</a>
                             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" class="px-4 py-2 rounded-pill border border-light text-light fw-semibold text-decoration-none">JavaScript</a>
+                            <a href="https://www.typescriptlang.org/docs/" target="_blank" class="px-4 py-2 rounded-pill border border-light text-light fw-semibold text-decoration-none">TypeScript</a>
                             <a href="https://getbootstrap.com/docs/" target="_blank" class="px-4 py-2 rounded-pill border border-light text-light fw-semibold text-decoration-none">Bootstrap</a>
                             <a href="https://tailwindcss.com/" target="_blank" class="px-4 py-2 rounded-pill border border-light text-light fw-semibold text-decoration-none">TailwindCss</a>
                             <a href="https://reactjs.org/docs/getting-started.html" target="_blank" class="px-4 py-2 rounded-pill border border-light text-light fw-semibold text-decoration-none">React</a>
